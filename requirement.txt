@@ -4,4 +4,5 @@ pyyaml
 fpdf
 openai
 python-docx
-
+python-dotenv
+pyperclip
